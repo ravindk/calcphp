@@ -1,6 +1,6 @@
 <?php
 
-echo "Calculator Application";
+echo "Calculator App";
 
 ?>
 
